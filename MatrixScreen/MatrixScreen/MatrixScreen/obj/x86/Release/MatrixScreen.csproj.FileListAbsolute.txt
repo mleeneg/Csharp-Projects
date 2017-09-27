@@ -1,0 +1,7 @@
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\bin\x86\Release\Content\SpriteFont1.xnb
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\bin\x86\Release\MatrixScreen.exe
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\bin\x86\Release\MatrixScreen.pdb
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\obj\x86\Release\MatrixScreen.csprojResolveAssemblyReference.cache
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\obj\x86\Release\MatrixScreen.exe
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreen\obj\x86\Release\MatrixScreen.pdb

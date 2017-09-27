@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixScreen", "MatrixScreen\MatrixScreen\MatrixScreen.csproj", "{0C6DF894-1564-4832-8867-600DF0F7BB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixScreenContent", "MatrixScreen\MatrixScreenContent\MatrixScreenContent.contentproj", "{F22FE01B-520A-40C9-AB10-973D607EC139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6DF894-1564-4832-8867-600DF0F7BB5F}.Debug|x86.ActiveCfg = Debug|x86
+		{0C6DF894-1564-4832-8867-600DF0F7BB5F}.Debug|x86.Build.0 = Debug|x86
+		{0C6DF894-1564-4832-8867-600DF0F7BB5F}.Release|x86.ActiveCfg = Release|x86
+		{0C6DF894-1564-4832-8867-600DF0F7BB5F}.Release|x86.Build.0 = Release|x86
+		{F22FE01B-520A-40C9-AB10-973D607EC139}.Debug|x86.ActiveCfg = Debug|x86
+		{F22FE01B-520A-40C9-AB10-973D607EC139}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\mlee\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreenContent\obj\x86\Debug\MatrixScreenContent.contentprojResolveAssemblyReference.cache
+H:\Google Drive\Visual Studio 2012\Projects\MatrixScreen\MatrixScreen\MatrixScreenContent\obj\x86\Debug\MatrixScreenContent.contentprojResolveAssemblyReference.cache
